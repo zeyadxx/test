@@ -20,3 +20,4 @@ socket.on('message', (msg) => {
 socket.on('typing', () => {
   console.log(' Someone is typing...');
 });
+// edit 
